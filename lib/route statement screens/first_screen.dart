@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx_tuto/screens/second_screen.dart';
+import 'package:getx_tuto/route%20statement%20screens/second_screen.dart';
 // import 'package:get/utils.dart';
 
 class FirstScreen extends StatelessWidget {
